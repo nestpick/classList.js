@@ -1,0 +1,22 @@
+{
+  "name": "classList",
+  "main": "classList.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nestpick/classList.js",
+  "authors": [
+    "Luis Merino <mail@luismerino.name>"
+  ],
+  "description": "Cross-browser element.classList",
+  "keywords": [
+    "classList",
+    "polyfill"
+  ],
+  "license": "Unlicense",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
